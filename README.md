@@ -1,3 +1,3 @@
 # Tic-Tac-Toe_Game
 
-- > Tic-Tac-Toe<br><a href = "https://hustlewithnachiket.github.io/Tic-Tac-Toe_Game/">Live Demo</a>
+- > Tic-Tac-Toe<br><a href = "https://Nachiket-072005.github.io/Tic-Tac-Toe_Game/">Live Demo</a>
